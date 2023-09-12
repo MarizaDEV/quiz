@@ -15,7 +15,7 @@ Quiz Interativo em JavaScript e tecnologias HTML e CSS.
 
 ## Layout da página 
 
- <img src="" alt="Página inicial"  />
+ <img src="https://github.com/MarizaDEV/quiz/blob/main/imagens/quiz.png" alt="Página inicial"  />
 
 ## Tecnologias e Linguagens utilizadas
 - HTML
