@@ -113,8 +113,8 @@ nextButton.addEventListener("click", () => {
         loadQuestion();
     } else {
         alert(`Fim de jogo! Você acertou ${score} de ${questions.length} perguntas.`);
+        restartQuiz();
     }
-
 });
 
 // reiniar o jogo 
